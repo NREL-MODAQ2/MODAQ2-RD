@@ -1,12 +1,15 @@
+[submodule "src/m2_core"]
+	path = src/m2_core
+	url = https://github.com/NREL-MODAQ2/m2_core.git
+[submodule "src/adnav_gnss_compass"]
+	path = src/adnav_gnss_compass
+	url = https://github.com/NREL-MODAQ2/adnav_gnss_compass.git
 [submodule "src/rosbridge_server_m2"]
 	path = src/rosbridge_server_m2
 	url = https://github.com/NREL-MODAQ2/rosbridge_server_m2.git
 [submodule "src/m2_hmi"]
 	path = src/m2_hmi
 	url = https://github.com/NREL-MODAQ2/m2_hmi.git
-[submodule "src/m2_core"]
-	path = src/m2_core
-	url = https://github.com/NREL-MODAQ2/m2_core.git
 [submodule "src/m2_control"]
 	path = src/m2_control
 	url = https://github.com/NREL-MODAQ2/m2_control.git
@@ -16,9 +19,9 @@
 [submodule "src/ed582_driver"]
 	path = src/ed582_driver
 	url = https://github.com/NREL-MODAQ2/ed582_driver.git
-[submodule "src/bluespace_ai_xsens_mti_driver"]
-	path = src/bluespace_ai_xsens_mti_driver
-	url = https://github.com/NREL-MODAQ2/bluespace_ai_xsens_ros_mti_driver.git
 [submodule "src/bag_recorder"]
 	path = src/bag_recorder
 	url = https://github.com/NREL-MODAQ2/bag_recorder.git
+[submodule "src/bluespace_ai_xsens_ros_mti_driver"]
+	path = src/bluespace_ai_xsens_ros_mti_driver
+	url = https://github.com/NREL-MODAQ2/bluespace_ai_xsens_ros_mti_driver.git
