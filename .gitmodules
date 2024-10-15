@@ -1,0 +1,24 @@
+[submodule "rosbridge_server_m2"]
+	path = rosbridge_server_m2
+	url = https://github.com/NREL-MODAQ2/rosbridge_server_m2.git
+[submodule "m2_hmi"]
+	path = m2_hmi
+	url = https://github.com/NREL-MODAQ2/m2_hmi.git
+[submodule "m2_core"]
+	path = m2_core
+	url = https://github.com/NREL-MODAQ2/m2_core.git
+[submodule "m2_control"]
+	path = m2_control
+	url = https://github.com/NREL-MODAQ2/m2_control
+[submodule "labjack_t8_ros2"]
+	path = labjack_t8_ros2
+	url = https://github.com/NREL-MODAQ2/labjack_t8_ros2
+[submodule "ed582_driver"]
+	path = ed582_driver
+	url = https://github.com/NREL-MODAQ2/ed582_driver
+[submodule "bluespace_ai_xsens_mti_driver"]
+	path = bluespace_ai_xsens_mti_driver
+	url = https://github.com/NREL-MODAQ2/bluespace_ai_xsens_mti_driver
+[submodule "bag_recorder"]
+	path = bag_recorder
+	url = https://github.com/NREL-MODAQ2/bag_recorder
