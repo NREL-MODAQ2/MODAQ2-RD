@@ -18,7 +18,7 @@
 	url = https://github.com/NREL-MODAQ2/ed582_driver
 [submodule "bluespace_ai_xsens_mti_driver"]
 	path = bluespace_ai_xsens_mti_driver
-	url = https://github.com/NREL-MODAQ2/bluespace_ai_xsens_mti_driver
+	url = https://github.com/NREL-MODAQ2/bluespace_ai_xsens_ros_mti_driver.git
 [submodule "bag_recorder"]
 	path = bag_recorder
 	url = https://github.com/NREL-MODAQ2/bag_recorder
