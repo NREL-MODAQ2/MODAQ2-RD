@@ -1,0 +1,32 @@
+[submodule "src/m2_core"]
+	path = src/m2_core
+	url = https://github.com/MODAQ2/m2_core.git
+	branch = main
+[submodule "src/adnav_gnss_compass"]
+	path = src/adnav_gnss_compass
+	url = https://github.com/MODAQ2/adnav_gnss_compass.git
+    branch = main
+[submodule "src/m2_hmi"]
+	path = src/m2_hmi
+	url = https://github.com/MODAQ2/m2_hmi.git
+    branch = main
+[submodule "src/m2_control"]
+	path = src/m2_control
+	url = https://github.com/MODAQ2/m2_control.git
+    branch = main
+[submodule "src/labjack_t8_ros2"]
+	path = src/labjack_t8_ros2
+	url = https://github.com/MODAQ2/labjack_t8_ros2.git
+    branch = main
+[submodule "src/ed582_driver"]
+	path = src/ed582_driver
+	url = https://github.com/MODAQ2/ed582_driver.git
+    branch = main
+[submodule "src/bag_recorder"]
+	path = src/bag_recorder
+	url = https://github.com/MODAQ2/bag_recorder.git
+    branch = main
+[submodule "src/bluespace_ai_xsens_ros_mti_driver"]
+	path = src/bluespace_ai_xsens_ros_mti_driver
+	url = https://github.com/MODAQ2/bluespace_ai_xsens_ros_mti_driver.git
+    branch = ros2_0_humble
