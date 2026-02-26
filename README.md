@@ -2,7 +2,5 @@ This repo holds the reference design for MODAQ2 which includes all the modules. 
 
 To Setup:
 ```bash
-git clone https://github.com/MODAQ2/MODAQ2-RD.git
-git submodule init
-git submodule update
+bash bootstrap.sh
 ```
